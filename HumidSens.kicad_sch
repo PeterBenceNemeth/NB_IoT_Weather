@@ -1,0 +1,17 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 276e9270-1ac9-4e3f-b1d9-0cbd51ddd27f)
+
+  (paper "A4")
+
+  (title_block
+    (rev "0.1")
+    (company "Németh Péter Bence")
+    (comment 1 "Kandó Kálmán Villamosmérnöki Kar")
+    (comment 2 "Óbudai Egyetem")
+  )
+
+  (lib_symbols
+  )
+
+)
